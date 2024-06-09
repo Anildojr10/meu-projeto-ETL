@@ -11,11 +11,11 @@ Se você quiser acompanhar o curso e executar os códigos no seu próprio ambien
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/curso-de-python.git
+    git clone https://github.com/seu-usuario/curso-de-python.git](https://github.com/Anildojr10/meu-projeto-PYTHON.git
     ```
 2. **Navegue até o diretório do curso:**
     ```bash
-    cd curso-de-python
+    cd C:\github\meu-projeto-PYTHON
     ```
 3. **Execute os arquivos Python:**
     ```bash
