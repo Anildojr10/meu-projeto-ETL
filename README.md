@@ -19,18 +19,28 @@ Se você quiser acompanhar o curso e executar os códigos no seu próprio ambien
     ```
 3. **Execute os arquivos Python:**
     ```bash
-    python aula1.py
+    python teste.py
     ```
 
 ## 📝 Lista de Aulas
 
-1. [Aula 1 - Introdução ao Python](aula1.py)
-2. [Aula 2 - Variáveis e Tipos de Dados](aula2.py)
-3. [Aula 3 - Estruturas de Controle](aula3.py)
-4. [Aula 4 - Funções](aula4.py)
-5. [Aula 5 - Estruturas de Dados](aula5.py)
-6. [Aula 6 - Programação Orientada a Objetos](aula6.py)
-7. ...
+1. [Aula 1 - Istalação do Python e editor VS Code e teste](teste.py)
+2. [Aula 2 - Variáveis e Tipos de Dados](variaveis.py)
+3. [Aula 3 - Operadores Aritméticos](operadores_aritmeticos.py)
+4. [Aula 4 - Operadores de Comparação](operadores-comparacao.py)
+5. [Aula 5 - Operadores lógicos AND, OR, NOT](operadores-logicos.py)
+6. [Aula 6 - Desvios condicionais - if, elif, else](condicionais.py)
+7. [Aula 7 - Saída de dados com função print, format e f-strings](print.py)
+8. [Aula 8 - Laço de Repetição While](while.py)
+9. [Aula 9 - Laço de repetição for e função range](for.py)
+10. [Aula 10 - Encadeamento de Laços de Repetição](laços_encadeados.py)
+11. [Aula 11 - Import de módulos e gerenciamento de pacotes com pip](modulos.py)
+12. [Aula 12 - Números aleatórios com módulo random](aleatorios.py)
+13. [Aula 13 - Listas](lista.py)
+14. [Aula 14 - Tuplas](tuplas.py)
+15. [Aula 15 - Funções matemáticas built-In e o módulo Math](matemática.py)
+16. [Aula 16 - Manipulação de Strings](strings.py)
+
 
 ## 🤝 Contribuições
 
@@ -44,7 +54,7 @@ Contribuições são bem-vindas! Se você quiser sugerir melhorias ou corrigir a
 
 ## 📬 Contato
 
-Se você tiver dúvidas, sugestões ou apenas quiser trocar uma ideia sobre Python, me encontre no [LinkedIn](https://www.linkedin.com/in/seu-perfil) ou envie um e-mail para seu-email@example.com.
+Se você tiver dúvidas, sugestões ou apenas quiser trocar uma ideia sobre Python, me encontre no [LinkedIn](https://www.linkedin.com/in/anildo-jer%C3%B4nimo-silva-junior-211781137/) ou envie um e-mail para anildojr10@hotmail.com
 
 ---
 
